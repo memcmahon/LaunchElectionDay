@@ -1,14 +1,20 @@
 ﻿using LaunchElectionDay;
+var race = new Race("City Council District 10");
 
-//var diana = new Candidate("Diana D", "Democrat");
+Console.WriteLine(race.Office);
+// Output => "City Council District 10"
 
-//Console.WriteLine(diana.Name);
+foreach (var candidate in race.Candidates)
+{
+    Console.WriteLine(candidate.Name);
+}
+// Output => ""
 
-//Console.WriteLine(diana.Party);
-//Console.WriteLine(diana.Votes);
+var diana = new Candidate("Diana D", "Democrat");
+race.RegisterCandidate(diana);
 
-//diana.VoteFor();
-//diana.VoteFor();
-//diana.VoteFor();
-
-//Console.WriteLine(diana.Votes);
+foreach (var candidate in race.Candidates)
+{
+    Console.WriteLine(candidate.Name);
+}
+// Output => "Diana D"

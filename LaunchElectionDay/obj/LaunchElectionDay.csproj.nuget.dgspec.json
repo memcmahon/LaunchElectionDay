@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zoe Farrell\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj": {}
+    "C:\\Users\\megan\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zoe Farrell\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj": {
+    "C:\\Users\\megan\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zoe Farrell\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
+        "projectUniqueName": "C:\\Users\\megan\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
         "projectName": "LaunchElectionDay",
-        "projectPath": "C:\\Users\\Zoe Farrell\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
-        "packagesPath": "C:\\Users\\Zoe Farrell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zoe Farrell\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\obj\\",
+        "projectPath": "C:\\Users\\megan\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
+        "packagesPath": "C:\\Users\\megan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\megan\\source\\repos\\LaunchElectionDay\\LaunchElectionDay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Zoe Farrell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\megan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
